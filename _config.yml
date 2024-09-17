@@ -20,11 +20,13 @@ author: Rendya Yuschak
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  Projects: "projects"
+  Articles: "articles"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Computer Science: "computersciences"
+    - Math: "maths"
+  Blogs: "blogs"
+  About Me: "aboutme"
 
 ################
 # --- Logo --- #

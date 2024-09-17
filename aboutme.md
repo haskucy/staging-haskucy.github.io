@@ -4,7 +4,7 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Rendya Yuschak. I have the following qualities:
+My name is Rendya Yuschak. Better known online as Haskucy. I am a computer science graduate from Indonesia. 
 
 - I rock a great mustache
 - I'm extremely loyal to my family
